@@ -17,7 +17,7 @@ Code: [Code](https://github.com/ansonlalu/Anson-s-Data-Sceience-Profolio/blob/ma
 PowerPoint: [PPT](https://github.com/ansonlalu/Anson-s-Data-Sceience-Profolio/blob/master/1_Capstone%20Project%20-%20The%20Battle%20of%20Neighborhoods_PPT.pdf)<br/>
 Study Report: [Report](https://github.com/ansonlalu/Anson-s-Data-Sceience-Profolio/blob/master/1_Capstone%20Project%20-%20The%20Battle%20of%20Neighborhoods%20(Week%202)_Report%20(1).pdf)
 
-
+<br/><br/>
 ![Alt Text](https://github.com/ansonlalu/Anson-s-Data-Sceience-Profolio/blob/master/2_Google%20Play%20Sore%20Apps.png)
 
 ## 2. Google Play Store Apps 
