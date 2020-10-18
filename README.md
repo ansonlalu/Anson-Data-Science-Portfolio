@@ -17,3 +17,9 @@ Code: [Code](https://github.com/ansonlalu/Anson-s-Data-Sceience-Profolio/blob/ma
 PowerPoint: [PPT](https://github.com/ansonlalu/Anson-s-Data-Sceience-Profolio/blob/master/Capstone%20Project%20-%20The%20Battle%20of%20Neighborhoods_PPT.pdf)<br/>
 Study Report: [Report](https://github.com/ansonlalu/Anson-s-Data-Sceience-Profolio/blob/master/Capstone%20Project%20-%20The%20Battle%20of%20Neighborhoods%20(Week%202)_Report.pdf)
 
+## 1. Google Play Store Apps 
+The project uses the data to perform data analysis utilizing different tree-based models, covering Decision Tree, Random Forest, XGBoost, LightGBM to identify the accuracy of R2 score for the rating of the App over 10000 mobile apps in the Google Play Store Apps.
+
+Meanwhile, the train test split and cross-validation will be also adopted for model evaluation.
+
+Code: [Code](https://www.kaggle.com/ansonlo/prediction-of-rating)<br/>
