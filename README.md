@@ -6,7 +6,7 @@ The website is intended to post my data science projects inspired form Kaggle an
 
 <br/><br/>
 
-![](https://github.com/ansonlalu/Anson-s-Data-Sceience-Profolio/blob/master/images/1_capstone%20project_photo_sushi.jpg)
+![](https://github.com/ansonlalu/Anson-s-Data-Sceience-Profolio/blob/master/images/1_capstone%20project_photo_sushi.JPG)
 
 ## 1. Capstone Project - The Battle of Neighborhoods
 
