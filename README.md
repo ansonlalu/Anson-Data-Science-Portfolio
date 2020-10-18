@@ -1,4 +1,2 @@
 # Anson-s-Data-Sceience-Profolio
-Code for Data
-#Hello World
-#Hello World
+The website is intended to post my data science projects inspired form Kaggle, covering
