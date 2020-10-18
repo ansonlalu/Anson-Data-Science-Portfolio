@@ -5,7 +5,7 @@ The website is intended to post my data science projects inspired form Kaggle an
 
 <br/><br/><br/>
 
-![Alt Text](https://github.com/ansonlalu/Anson-s-Data-Sceience-Profolio/blob/master/1_capstone%20project_photo_sushi.jpg)
+![](https://github.com/ansonlalu/Anson-s-Data-Sceience-Profolio/blob/master/1_capstone%20project_photo_sushi.jpg)
 
 ## 1. Capstone Project - The Battle of Neighborhoods
 
@@ -18,7 +18,7 @@ PowerPoint: [PPT](https://github.com/ansonlalu/Anson-s-Data-Sceience-Profolio/bl
 Study Report: [Report](https://github.com/ansonlalu/Anson-s-Data-Sceience-Profolio/blob/master/1_Capstone%20Project%20-%20The%20Battle%20of%20Neighborhoods%20(Week%202)_Report%20(1).pdf)
 
 <br/><br/>
-![Alt Text](https://github.com/ansonlalu/Anson-s-Data-Sceience-Profolio/blob/master/2_Google%20Play%20Sore%20Apps.png)
+![](https://github.com/ansonlalu/Anson-s-Data-Sceience-Profolio/blob/master/2_Google%20Play%20Sore%20Apps.png)
 
 ## 2. Google Play Store Apps 
 The project uses the data to perform data analysis utilizing different tree-based models, covering Decision Tree, Random Forest, XGBoost, LightGBM to identify the accuracy of R2 score for the rating of the App over 10000 mobile apps in the Google Play Store Apps.
