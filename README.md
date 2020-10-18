@@ -3,6 +3,7 @@ The website is intended to post my data science projects inspired form Kaggle an
   1. Capstone Project - The Battle of Neighborhoods
   2. Google Play Store Apps 
 
+<br/><br/><br/>
 
 ![Alt Text](https://github.com/ansonlalu/Anson-s-Data-Sceience-Profolio/blob/master/Capstone%20Project_Photo_Sushi.jpg)
 
