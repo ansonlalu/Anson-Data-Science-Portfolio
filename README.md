@@ -5,6 +5,7 @@ The website is intended to post my data science projects inspired form Kaggle an
 
 
 **#Capstone Project - The Battle of Neighborhoods**
+
 The project is to investigate the comprehensive data analysis shall be implemented in order to understand the capability, price, categories (Japanese food restaurant or sushi restaurant) and rating for the Japanese Restaurant in New York City. The assessment can help understand what business strategy of Japanese restaurant shall be made (e.g. pricing strategy, decision for the acquisition of higher rating, location, etc.) before its new launch. 
 
 Code:
