@@ -10,15 +10,9 @@ The project is to investigate the comprehensive data analysis shall be implement
 
 
 
-Code:
+Code:[Code](https://github.com/ansonlalu/Anson-s-Data-Sceience-Profolio/blob/master/Capstone%20Project%20-%20The%20Battle%20of%20Neighborhoods%20(Latest)%20(1).ipynb)
 
-(https://github.com/ansonlalu/Anson-s-Data-Sceience-Profolio/blob/master/Capstone%20Project%20-%20The%20Battle%20of%20Neighborhoods%20(Latest)%20(1).ipynb)
+PowerPoint:[PPT](https://github.com/ansonlalu/Anson-s-Data-Sceience-Profolio/blob/master/Capstone%20Project%20-%20The%20Battle%20of%20Neighborhoods_PPT.pdf)
 
-PowerPoint:
-
-[PPT](https://github.com/ansonlalu/Anson-s-Data-Sceience-Profolio/blob/master/Capstone%20Project%20-%20The%20Battle%20of%20Neighborhoods_PPT.pdf)
-
-Study Report:
-
-[Report](https://github.com/ansonlalu/Anson-s-Data-Sceience-Profolio/blob/master/Capstone%20Project%20-%20The%20Battle%20of%20Neighborhoods%20(Week%202)_Report.pdf)
+Study Report:[Report](https://github.com/ansonlalu/Anson-s-Data-Sceience-Profolio/blob/master/Capstone%20Project%20-%20The%20Battle%20of%20Neighborhoods%20(Week%202)_Report.pdf)
 
