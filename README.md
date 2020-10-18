@@ -22,4 +22,5 @@ The project uses the data to perform data analysis utilizing different tree-base
 
 Meanwhile, the train test split and cross-validation will be also adopted for model evaluation.
 
-Code: [Code](https://www.kaggle.com/ansonlo/prediction-of-rating)<br/>
+Code in Kaggle: [Code](https://www.kaggle.com/ansonlo/prediction-of-rating)<br/>
+Code in GIthub: [Code](XX)<br/>
