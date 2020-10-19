@@ -4,6 +4,12 @@ The website is intended to post my data science projects inspired form Kaggle an
 &emsp;&emsp; 1) &emsp;  Capstone Project - The Battle of Neighborhoods  <br/>
 &emsp;&emsp; 2) &emsp;  Google Play Store Apps 
 
+<br/>
+&emsp;Upcoming Projects 
+
+&emsp;&emsp;- Solar Power Generation  <br/>
+&emsp;&emsp;- Health Insurance Cross Sell Prediction
+
 <br/><br/>
 
 
