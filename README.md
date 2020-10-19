@@ -7,7 +7,7 @@ The website is intended to post my data science projects inspired form Kaggle an
 <br/>
 &emsp;Upcoming Projects 
 
-&emsp;&emsp;- Solar Power Generation  <br/>
+&emsp;&emsp;- Solar Power Generation Data <br/>
 &emsp;&emsp;- Health Insurance Cross Sell Prediction
 
 <br/><br/>
