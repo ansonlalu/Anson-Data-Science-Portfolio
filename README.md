@@ -1,8 +1,8 @@
 # Anson's Data Sceience Profolio
 The website is intended to post my data science projects inspired form Kaggle and IBM Data Science Certificate, covering:
 
-&emsp;&emsp; 1) &emsp;  Google Play Store Apps 
-&emsp;&emsp; 2) &emsp;  Capstone Project - The Battle of Neighborhoods  <br/>
+&emsp;&emsp; 1) &emsp;  Google Play Store Apps  <br/>
+&emsp;&emsp; 2) &emsp;  Capstone Project - The Battle of Neighborhoods 
 
 
 <br/>
@@ -21,7 +21,7 @@ The project uses the data to perform data analysis utilizing different tree-base
 Meanwhile, the train test split and cross-validation will be also adopted for model evaluation.
 
 Code in Kaggle: [Code](https://www.kaggle.com/ansonlo/prediction-of-rating)<br/>
-Code in GIthub: [Code](https://github.com/ansonlalu/Anson-s-Data-Sceience-Profolio/blob/master/2_Prediction-of-Rating.ipynb)<br/><br/>
+Code in GIthub: [Code](https://github.com/ansonlalu/Anson-s-Data-Sceience-Profolio/blob/master/2_Prediction-of-Rating.ipynb)<br/><br/><br/>
 
 
 ![](https://user-images.githubusercontent.com/63663095/96374393-15ec0f00-11a5-11eb-9c84-1f8890e1e2c0.jpg)
