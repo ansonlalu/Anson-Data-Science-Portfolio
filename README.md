@@ -24,7 +24,7 @@ Code in Kaggle: [Code](https://www.kaggle.com/ansonlo/prediction-of-rating)<br/>
 Code in GIthub: [Code](https://github.com/ansonlalu/Anson-s-Data-Sceience-Profolio/blob/master/2_Prediction-of-Rating.ipynb)<br/><br/><br/>
 
 
-<img width="506" alt="2_The Battle of Neighborhoods" src="https://user-images.githubusercontent.com/63663095/96374393-15ec0f00-11a5-11eb-9c84-1f8890e1e2c0.jpg">
+
 
 ## 2. Capstone Project - The Battle of Neighborhoods
 
