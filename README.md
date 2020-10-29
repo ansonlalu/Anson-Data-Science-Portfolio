@@ -25,7 +25,7 @@ Code in GIthub: [Code](https://github.com/ansonlalu/Anson-s-Data-Sceience-Profol
 
 
 
-<img width="506" alt="1_Google Play Sore Apps" src="https://github.com/ansonlalu/Anson-s-Data-Sceience-Profolio/blob/master/restaurants_img.jpg">
+<img width="506" alt="2_The Battle of Neighborhoods" src="https://user-images.githubusercontent.com/63663095/97613707-f92cc280-1a53-11eb-9c2a-bbbf9306938c.jpg">
 
 ## 2. Capstone Project - The Battle of Neighborhoods
 
