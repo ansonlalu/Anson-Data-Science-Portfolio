@@ -6,13 +6,15 @@ The website is intended to post my data science projects inspired form Kaggle an
 &emsp;&emsp; 3) &emsp;  Capstone Project - The Battle of Neighborhoods 
 
 
-<br/>
-&emsp;Upcoming Projects 
-&emsp;&emsp;- Solar Power Generation Data <br/>
+
+&emsp;Upcoming Projects <br/>
+&emsp;&emsp; - Solar Power Generation Data <br/>
 
 
 
 <br/><br/>
+<img width="706" alt="1_Google Play Sore Apps" src="https://user-images.githubusercontent.com/63663095/102711005-7b699280-42f1-11eb-9fe2-5d6c74921c09.jpg">
+
 
 ## 1. Health Insurance Cross Sell Prediction
 This work is to predict customers whether they are really interested in the new product of Vehicle Insurance provided by the client of Insurance Company in this project. This project includes the topic commonly appear in data science, covering: <br/>
@@ -25,7 +27,7 @@ This work is to predict customers whether they are really interested in the new 
 6.	Reference
 
 My Code is sharing in Github as follows:
-Code in GIthub: [Code](https://github.com/ansonlalu/Anson-s-Data-Sceience-Profolio/blob/master/2_Prediction-of-Rating.ipynb)<br/><br/><br/>
+Code in GIthub: [Code](https://github.com/ansonlalu/Anson-s-Data-Sceience-Profolio/blob/master/3_Kaggle_Health Insurance Cross Sell Prediction.ipynb)<br/><br/><br/>
 
 
 
