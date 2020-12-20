@@ -16,7 +16,7 @@ The website is intended to post my data science projects inspired form Kaggle an
 <img width="706" alt="1_Google Play Sore Apps" src="https://user-images.githubusercontent.com/63663095/102711005-7b699280-42f1-11eb-9fe2-5d6c74921c09.jpg">
 
 
-## 1. Health Insurance Cross Sell Prediction- Best Score: 0.87735
+## 1. Health Insurance Cross Sell Prediction- Best Score: 0.87735 for XG Boost
 This work is to predict customers whether they are really interested in the new product of Vehicle Insurance provided by the client of Insurance Company in this project. This project includes the topic commonly appear in data science, covering: <br/>
 
 1.	Exploratory Data Analysis (Count Plot, Distribution Plot, Correlation Matrix, etc.)
@@ -27,7 +27,7 @@ This work is to predict customers whether they are really interested in the new 
 6.	Reference
 
 My Code is sharing in Github as follows:
-Code in GIthub: [Code](https://github.com/ansonlalu/Anson-s-Data-Sceience-Profolio/blob/master/3_Kaggle_Health_Insurance_Cross_Sell_Prediction.ipynb)<br/><br/><br/>
+Code in Github: [Code](https://github.com/ansonlalu/Anson-s-Data-Sceience-Profolio/blob/master/3_Kaggle_Health_Insurance_Cross_Sell_Prediction.ipynb)<br/><br/><br/>
 
 
 
