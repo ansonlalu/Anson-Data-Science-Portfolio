@@ -26,7 +26,7 @@ This work is to predict customers whether they are really interested in the new 
 5.	The Use of Randomized Search for XG Boost
 6.	Reference
 
-My Code is sharing in Github as follows:
+My Code is sharing as follows: <br/>
 Code in Github: [Code](https://github.com/ansonlalu/Anson-s-Data-Sceience-Profolio/blob/master/3_Kaggle_Health_Insurance_Cross_Sell_Prediction.ipynb)<br/><br/><br/>
 
 
