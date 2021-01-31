@@ -12,7 +12,7 @@ The website is intended to post my data science projects inspired form Kaggle an
 
 
 ## 1. Household Electric Power Consumption by LSTM : loss: 0.0103,  val_loss: 0.0088
-This work is to predict the Household Electric Power Consumption by using LSTM. The features active power,reactive power, Voltag, Global_intensity, Sub_metering_1, Sub_metering_2, Sub_metering_3 are used to forecast the active power used in the future.
+This work is to predict the Household Electric Power Consumption by using LSTM. The features are used to forecast the active power used in the future and listed below.
 
 1. Active Power
 2. Reactive Power
