@@ -1,7 +1,7 @@
 # Anson's Data Sceience Profolio
 The website is intended to post my data science projects inspired form Kaggle and IBM Data Science Certificate, covering:
 
-&emsp;&emsp; 1) &emsp;  Household Electric Power Consumption by LSTM
+&emsp;&emsp; 1) &emsp;  Household Electric Power Consumption by LSTM  <br/>
 &emsp;&emsp; 2) &emsp;  Health Insurance Cross Sell Prediction  <br/>
 &emsp;&emsp; 3) &emsp;  Google Play Store Apps  <br/>
 &emsp;&emsp; 4) &emsp;  Capstone Project - The Battle of Neighborhoods 
