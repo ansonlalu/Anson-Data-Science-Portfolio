@@ -14,13 +14,13 @@ The website is intended to post my data science projects inspired form Kaggle an
 ## 1. Household Electric Power Consumption by LSTM 
 This work is to predict the Household Electric Power Consumption by using LSTM. The features are used to forecast the active power used in the future and listed below.
 
-&emsp;&emsp; 1. Active Power
-&emsp;&emsp; 2. Reactive Power
-&emsp;&emsp; 3. Voltage
-&emsp;&emsp; 4. Global_intensity
-&emsp;&emsp; 5. Sub_metering_1
-&emsp;&emsp; 6. Sub_metering_2
-&emsp;&emsp; 7. Sub_metering_3 
+&emsp;&emsp; 1. Active Power <br/>
+&emsp;&emsp; 2. Reactive Power <br/>
+&emsp;&emsp; 3. Voltage <br/>
+&emsp;&emsp; 4. Global_intensity <br/>
+&emsp;&emsp; 5. Sub_metering_1 <br/>
+&emsp;&emsp; 6. Sub_metering_2 <br/>
+&emsp;&emsp; 7. Sub_metering_3 <br/>
 
 The result is briefly listed, loss: 0.0103,  val_loss: 0.0088
 
@@ -37,12 +37,12 @@ Code in Github: [Code](https://github.com/ansonlalu/Anson-s-Data-Sceience-Profol
 ## 2. Health Insurance Cross Sell Prediction- Best Score: 0.87735 for XG Boost
 This work is to predict customers whether they are really interested in the new product of Vehicle Insurance provided by the client of Insurance Company in this project. This project includes the topic commonly appear in data science, covering: <br/>
 
-&emsp;&emsp; 1.	Exploratory Data Analysis (Count Plot, Distribution Plot, Correlation Matrix, etc.)
-&emsp;&emsp; 2.	The Use of Random Forest Classifier
-&emsp;&emsp; 3.	The Use of Feature Importance
-&emsp;&emsp; 4.	The Use of Randomized Search for Random Forest
-&emsp;&emsp; 5.	The Use of Randomized Search for XG Boost
-&emsp;&emsp; 6.	Reference
+&emsp;&emsp; 1.	Exploratory Data Analysis (Count Plot, Distribution Plot, Correlation Matrix, etc.) <br/>
+&emsp;&emsp; 2.	The Use of Random Forest Classifier <br/>
+&emsp;&emsp; 3.	The Use of Feature Importance <br/>
+&emsp;&emsp; 4.	The Use of Randomized Search for Random Forest <br/>
+&emsp;&emsp; 5.	The Use of Randomized Search for XG Boost <br/>
+&emsp;&emsp; 6.	Reference <br/>
 
 My Code is sharing as follows: <br/>
 Code in Github: [Code](https://github.com/ansonlalu/Anson-s-Data-Sceience-Profolio/blob/master/3_Kaggle_Health_Insurance_Cross_Sell_Prediction.ipynb)<br/><br/><br/>
