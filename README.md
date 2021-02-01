@@ -11,7 +11,7 @@ The website is intended to post my data science projects inspired form Kaggle an
 
 
 
-## 1. Household Electric Power Consumption by LSTM : loss: 0.0103,  val_loss: 0.0088
+## 1. Household Electric Power Consumption by LSTM 
 This work is to predict the Household Electric Power Consumption by using LSTM. The features are used to forecast the active power used in the future and listed below.
 
 1. Active Power
@@ -21,6 +21,8 @@ This work is to predict the Household Electric Power Consumption by using LSTM. 
 5. Sub_metering_1
 6. Sub_metering_2
 7. Sub_metering_3 
+
+The result is briefly listed, loss: 0.0103,  val_loss: 0.0088
 
 My Code is sharing as follows: <br/>
 Code in Github: [Code](https://github.com/ansonlalu/Anson-s-Data-Sceience-Profolio/blob/master/3_Kaggle_Health_Insurance_Cross_Sell_Prediction.ipynb)<br/><br/><br/>
