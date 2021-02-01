@@ -9,7 +9,6 @@ The website is intended to post my data science projects inspired form Kaggle an
 
 <br/><br/>
 
-<br/><br/>
 <img width="706" alt="4_Kaggle_Household Electric Power Consumption_LSTM" src="https://user-images.githubusercontent.com/63663095/106499078-16fa3f80-64fb-11eb-820f-8ef5d60ea03a.jpg">
 
 ## 1. Household Electric Power Consumption by LSTM 
