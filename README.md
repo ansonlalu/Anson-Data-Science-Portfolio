@@ -25,7 +25,7 @@ This work is to predict the Household Electric Power Consumption by using LSTM. 
 The result is briefly listed, loss: 0.0103,  val_loss: 0.0088
 
 My Code is sharing as follows: <br/>
-Code in Github: [Code](https://github.com/ansonlalu/Anson-s-Data-Sceience-Profolio/blob/master/3_Kaggle_Health_Insurance_Cross_Sell_Prediction.ipynb)<br/><br/><br/>
+Code in Github: [Code](https://github.com/ansonlalu/Anson-s-Data-Sceience-Profolio/blob/master/4_Kaggle_Household Electric Power Consumption_LSTM.ipynb)<br/><br/><br/>
 
 
 
