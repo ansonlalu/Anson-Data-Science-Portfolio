@@ -14,13 +14,13 @@ The website is intended to post my data science projects inspired form Kaggle an
 ## 1. Household Electric Power Consumption by LSTM 
 This work is to predict the Household Electric Power Consumption by using LSTM. The features are used to forecast the active power used in the future and listed below.
 
-1. Active Power
-2. Reactive Power
-3. Voltage
-4. Global_intensity
-5. Sub_metering_1
-6. Sub_metering_2
-7. Sub_metering_3 
+&emsp;&emsp; 1. Active Power
+&emsp;&emsp; 2. Reactive Power
+&emsp;&emsp; 3. Voltage
+&emsp;&emsp; 4. Global_intensity
+&emsp;&emsp; 5. Sub_metering_1
+&emsp;&emsp; 6. Sub_metering_2
+&emsp;&emsp; 7. Sub_metering_3 
 
 The result is briefly listed, loss: 0.0103,  val_loss: 0.0088
 
@@ -37,12 +37,12 @@ Code in Github: [Code](https://github.com/ansonlalu/Anson-s-Data-Sceience-Profol
 ## 2. Health Insurance Cross Sell Prediction- Best Score: 0.87735 for XG Boost
 This work is to predict customers whether they are really interested in the new product of Vehicle Insurance provided by the client of Insurance Company in this project. This project includes the topic commonly appear in data science, covering: <br/>
 
-1.	Exploratory Data Analysis (Count Plot, Distribution Plot, Correlation Matrix, etc.)
-2.	The Use of Random Forest Classifier
-3.	The Use of Feature Importance
-4.	The Use of Randomized Search for Random Forest
-5.	The Use of Randomized Search for XG Boost
-6.	Reference
+&emsp;&emsp; 1.	Exploratory Data Analysis (Count Plot, Distribution Plot, Correlation Matrix, etc.)
+&emsp;&emsp; 2.	The Use of Random Forest Classifier
+&emsp;&emsp; 3.	The Use of Feature Importance
+&emsp;&emsp; 4.	The Use of Randomized Search for Random Forest
+&emsp;&emsp; 5.	The Use of Randomized Search for XG Boost
+&emsp;&emsp; 6.	Reference
 
 My Code is sharing as follows: <br/>
 Code in Github: [Code](https://github.com/ansonlalu/Anson-s-Data-Sceience-Profolio/blob/master/3_Kaggle_Health_Insurance_Cross_Sell_Prediction.ipynb)<br/><br/><br/>
