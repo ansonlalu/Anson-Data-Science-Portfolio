@@ -9,11 +9,12 @@ The website is intended to post my data science projects inspired form Kaggle, I
 
 <br/><br/>
 
-<img width="706" alt="Prediction of Stock Price using LSTM" src="https://user-images.githubusercontent.com/63663095/106499078-16fa3f80-64fb-11eb-820f-8ef5d60ea03a.jpg">
+<img width="706" alt="Prediction of Stock Price using LSTM" src="https://user-images.githubusercontent.com/63663095/125903260-2e69db9f-d380-4a14-900a-d0907e5550f3.jpg">
 
 
 ## 1.Prediction of Stock Price using LSTM
-This is my preliminary work is to predict the stock price of Nvidia by using LSTM. Different features gathered from Yahoo Finance, covering 
+This is my preliminary work is to predict the stock price of Nvidia by using LSTM. Different features gathered from Yahoo Finance, covering: 
+
 &emsp;&emsp; 1. Open Price                 <br/>
 &emsp;&emsp; 2. Volume                     <br/>
 &emsp;&emsp; 3. Closing Price of GDX       <br/>
@@ -23,7 +24,7 @@ This is my preliminary work is to predict the stock price of Nvidia by using LST
 Those are used for the prediction of the closing price. The work will be amended from time to time for better accuracy.
 
 My Code is sharing as follows: <br/>
-Code in Github: [Code](https://github.com/ansonlalu/Anson-s-Data-Sceience-Portfolio/blob/master/Formal%20Project%205_20210704_LSTM%20with%20the%20Multivariables%20of%20Nvidia%20.ipynb)<br/>
+Code in Github: [Code](https://github.com/ansonlalu/Anson-s-Data-Sceience-Portfolio/blob/master/5.1_20210704_LSTM%20with%20the%20Multivariables%20of%20Nvidia.ipynb)<br/>
 
 
 <br/><br/>
