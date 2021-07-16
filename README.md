@@ -9,10 +9,10 @@ The website is intended to post my data science projects inspired form Kaggle, I
 
 <br/><br/>
 
-<img width="706" alt="Prediction of Stock Price using LSTM" src="https://user-images.githubusercontent.com/63663095/125903450-38a1ceab-07a1-4f2f-b20f-352cbb5e5cf3.jpg">
+<img width="706" alt="Prediction of Stock Price using LSTM" src="https://user-images.githubusercontent.com/63663095/125904308-6823f306-1e32-40e6-953e-f611ccbbb231.jpg">
 
 
-## 1.Prediction of Stock Price using LSTM
+## 1. Prediction of Stock Price using LSTM
 This is my preliminary work is to predict the stock price of Nvidia by using LSTM. Different features gathered from Yahoo Finance, covering: 
 
 &emsp;&emsp; 1. Open Price                 <br/>
