@@ -1,5 +1,5 @@
 # Anson's Data Sceience Profolio
-The website is intended to post my data science projects inspired form Kaggle and IBM Data Science Certificate, covering:
+The website is intended to post my data science projects inspired form Kaggle, IBM AI Engineering and IBM Data Science Certificate, covering:
 
 &emsp;&emsp; 1) &emsp;  Prediction of Stock Price using LSTM  <br/>
 &emsp;&emsp; 2) &emsp;  Household Electric Power Consumption by LSTM  <br/>
@@ -11,8 +11,16 @@ The website is intended to post my data science projects inspired form Kaggle an
 
 <img width="706" alt="Prediction of Stock Price using LSTM" src="https://user-images.githubusercontent.com/63663095/106499078-16fa3f80-64fb-11eb-820f-8ef5d60ea03a.jpg">
 
+
 ## 1.Prediction of Stock Price using LSTM
-This is my preliminary work is to predict the stock price by using LSTM. Different features gathered from Yahoo Finance, covering Open Price, Volume, Closing Price of GDX, QQQ and UPP and used to predict the closing price. The work will be amended from time to time for better accuracy.
+This is my preliminary work is to predict the stock price of Nvidia by using LSTM. Different features gathered from Yahoo Finance, covering 
+&emsp;&emsp; 1. Open Price
+&emsp;&emsp; 2. Volume
+&emsp;&emsp; 3. Closing Price of GDX
+&emsp;&emsp; 4. QQQ 
+&emsp;&emsp; 5. UPP 
+
+Those are used for the prediction of the closing price. The work will be amended from time to time for better accuracy.
 
 My Code is sharing as follows: <br/>
 Code in Github: [Code](https://github.com/ansonlalu/Anson-s-Data-Sceience-Portfolio/blob/master/Formal%20Project%205_20210704_LSTM%20with%20the%20Multivariables%20of%20Nvidia%20.ipynb)<br/>
