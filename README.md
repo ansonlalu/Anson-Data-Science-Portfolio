@@ -14,11 +14,11 @@ The website is intended to post my data science projects inspired form Kaggle, I
 
 ## 1.Prediction of Stock Price using LSTM
 This is my preliminary work is to predict the stock price of Nvidia by using LSTM. Different features gathered from Yahoo Finance, covering 
-&emsp;&emsp; 1. Open Price
-&emsp;&emsp; 2. Volume
-&emsp;&emsp; 3. Closing Price of GDX
-&emsp;&emsp; 4. QQQ 
-&emsp;&emsp; 5. UPP 
+&emsp;&emsp; 1. Open Price                 <br/>
+&emsp;&emsp; 2. Volume                     <br/>
+&emsp;&emsp; 3. Closing Price of GDX       <br/>
+&emsp;&emsp; 4. QQQ                        <br/>
+&emsp;&emsp; 5. UPP                        <br/>
 
 Those are used for the prediction of the closing price. The work will be amended from time to time for better accuracy.
 
