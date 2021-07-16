@@ -27,7 +27,7 @@ This is my preliminary work is to predict the stock price of Nvidia by using LST
 Those are used for the prediction of the closing price. The work will be amended from time to time for better accuracy.
 
 My Code is sharing as follows: <br/>
-Code in Github: [Code](https://nbviewer.jupyter.org/github/ansonlalu/Anson-s-Data-Sceience-Portfolio/blob/master/5.1_20210704_LSTM%20with%20the%20Multivariables%20of%20Nvidia.ipynb)<br/>
+Code in Github: [Code](https://nbviewer.jupyter.org/github/ansonlalu/Anson-Data-Science-Portfolio/blob/6c2dc97ece1ce02e179055e63b4d2872017bbdbb/5.1_20210704_LSTM%20with%20the%20Multivariables%20of%20Nvidia.ipynb)<br/>
 
 
 <br/><br/>
