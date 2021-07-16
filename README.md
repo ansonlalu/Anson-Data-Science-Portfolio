@@ -9,7 +9,7 @@ The website is intended to post my data science projects inspired form Kaggle, I
 
 <br/><br/>
 
-<img width="706" alt="Prediction of Stock Price using LSTM" src="https://user-images.githubusercontent.com/63663095/125903260-2e69db9f-d380-4a14-900a-d0907e5550f3.jpg">
+<img width="706" alt="Prediction of Stock Price using LSTM" src="https://user-images.githubusercontent.com/63663095/125903450-38a1ceab-07a1-4f2f-b20f-352cbb5e5cf3.jpg">
 
 
 ## 1.Prediction of Stock Price using LSTM
