@@ -1,8 +1,8 @@
 # Anson's Data Science Profolio
 The website is intended to post my data science projects inspired form Kaggle, IBM AI Engineering and IBM Data Science Certificate, covering:
 
-&emsp;&emsp; 1) &emsp;  Prediction of Stock Price using LSTM  <br/>
-&emsp;&emsp; 2) &emsp;  Household Electric Power Consumption by LSTM  <br/>
+&emsp;&emsp; 1) &emsp;  Household Electric Power Consumption by LSTM  <br/>
+&emsp;&emsp; 2) &emsp;  Prediction of Stock Price using LSTM  <br/>
 &emsp;&emsp; 3) &emsp;  Health Insurance Cross Sell Prediction  <br/>
 &emsp;&emsp; 4) &emsp;  Google Play Store Apps  <br/>
 &emsp;&emsp; 5) &emsp;  Capstone Project - The Battle of Neighborhoods 
@@ -12,7 +12,31 @@ The website is intended to post my data science projects inspired form Kaggle, I
 <img width="706" alt="Prediction of Stock Price using LSTM" src="https://user-images.githubusercontent.com/63663095/125904308-6823f306-1e32-40e6-953e-f611ccbbb231.jpg">
 
 
-## 1. Prediction of Stock Price using LSTM
+## 1. Household Electric Power Consumption by LSTM 
+This work is to predict the Household Electric Power Consumption by using LSTM. The features are used to forecast the active power used in the future and listed below.
+
+&emsp;&emsp; 1. Active Power <br/>
+&emsp;&emsp; 2. Reactive Power <br/>
+&emsp;&emsp; 3. Voltage <br/>
+&emsp;&emsp; 4. Global_intensity <br/>
+&emsp;&emsp; 5. Sub_metering_1 <br/>
+&emsp;&emsp; 6. Sub_metering_2 <br/>
+&emsp;&emsp; 7. Sub_metering_3 <br/>
+
+The result is briefly listed, loss: 0.0103,  val_loss: 0.0088
+
+My Code is sharing as follows: <br/>
+Code in Github: [Code](https://github.com/ansonlalu/Anson-s-Data-Sceience-Profolio/blob/master/4_Kaggle_Household_Electric_Power_Consumption_LSTM.ipynb)<br/><br/><br/>
+
+
+
+
+<br/><br/>
+<img width="706" alt="1_Google Play Sore Apps" src="https://user-images.githubusercontent.com/63663095/102711005-7b699280-42f1-11eb-9fe2-5d6c74921c09.jpg">
+
+
+
+## 2. Prediction of Stock Price using LSTM
 This is my preliminary work is to predict the stock price of Nvidia by using LSTM. Different features gathered from Yahoo Finance, covering: 
 
 &emsp;&emsp; 1. Open Price                 <br/>
@@ -35,27 +59,6 @@ Code in Github: [Code](https://nbviewer.jupyter.org/github/ansonlalu/Anson-Data-
 <img width="706" alt="4_Kaggle_Household Electric Power Consumption_LSTM" src="https://user-images.githubusercontent.com/63663095/106499078-16fa3f80-64fb-11eb-820f-8ef5d60ea03a.jpg">
 
 
-## 2. Household Electric Power Consumption by LSTM 
-This work is to predict the Household Electric Power Consumption by using LSTM. The features are used to forecast the active power used in the future and listed below.
-
-&emsp;&emsp; 1. Active Power <br/>
-&emsp;&emsp; 2. Reactive Power <br/>
-&emsp;&emsp; 3. Voltage <br/>
-&emsp;&emsp; 4. Global_intensity <br/>
-&emsp;&emsp; 5. Sub_metering_1 <br/>
-&emsp;&emsp; 6. Sub_metering_2 <br/>
-&emsp;&emsp; 7. Sub_metering_3 <br/>
-
-The result is briefly listed, loss: 0.0103,  val_loss: 0.0088
-
-My Code is sharing as follows: <br/>
-Code in Github: [Code](https://github.com/ansonlalu/Anson-s-Data-Sceience-Profolio/blob/master/4_Kaggle_Household_Electric_Power_Consumption_LSTM.ipynb)<br/><br/><br/>
-
-
-
-
-<br/><br/>
-<img width="706" alt="1_Google Play Sore Apps" src="https://user-images.githubusercontent.com/63663095/102711005-7b699280-42f1-11eb-9fe2-5d6c74921c09.jpg">
 
 
 ## 3. Health Insurance Cross Sell Prediction- Best Score: 0.87735 for XG Boost
