@@ -8,9 +8,7 @@ The website is intended to post my data science projects inspired form Kaggle, I
 &emsp;&emsp; 5) &emsp;  Capstone Project - The Battle of Neighborhoods 
 
 <br/><br/>
-
-<img width="706" alt="Prediction of Stock Price using LSTM" src="https://user-images.githubusercontent.com/63663095/125904308-6823f306-1e32-40e6-953e-f611ccbbb231.jpg">
-
+<img width="706" alt="4_Kaggle_Household Electric Power Consumption_LSTM" src="https://user-images.githubusercontent.com/63663095/106499078-16fa3f80-64fb-11eb-820f-8ef5d60ea03a.jpg">
 
 ## 1. Household Electric Power Consumption by LSTM 
 This work is to predict the Household Electric Power Consumption by using LSTM. The features are used to forecast the active power used in the future and listed below.
@@ -31,9 +29,7 @@ Code in Github: [Code](https://github.com/ansonlalu/Anson-s-Data-Sceience-Profol
 
 
 
-<br/><br/>
-<img width="706" alt="1_Google Play Sore Apps" src="https://user-images.githubusercontent.com/63663095/102711005-7b699280-42f1-11eb-9fe2-5d6c74921c09.jpg">
-
+<img width="706" alt="Prediction of Stock Price using LSTM" src="https://user-images.githubusercontent.com/63663095/125904308-6823f306-1e32-40e6-953e-f611ccbbb231.jpg">
 
 
 ## 2. Prediction of Stock Price using LSTM
@@ -54,10 +50,9 @@ My Code is sharing as follows: <br/>
 Code in Github: [Code](https://nbviewer.jupyter.org/github/ansonlalu/Anson-Data-Science-Portfolio/blob/6c2dc97ece1ce02e179055e63b4d2872017bbdbb/5.1_20210704_LSTM%20with%20the%20Multivariables%20of%20Nvidia.ipynb)<br/>
 
 
+
 <br/><br/>
-
-<img width="706" alt="4_Kaggle_Household Electric Power Consumption_LSTM" src="https://user-images.githubusercontent.com/63663095/106499078-16fa3f80-64fb-11eb-820f-8ef5d60ea03a.jpg">
-
+<img width="706" alt="1_Google Play Sore Apps" src="https://user-images.githubusercontent.com/63663095/102711005-7b699280-42f1-11eb-9fe2-5d6c74921c09.jpg">
 
 
 
