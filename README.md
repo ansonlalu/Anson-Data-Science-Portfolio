@@ -24,10 +24,10 @@ It is my real work experience for the prediction of Voltage at the Pantograph fo
 &emsp;&emsp; 7. Mechancial Power of Rolling Stock <br/>
 
 
-The result of best score for Random Forest and XG Boost are 0.857 and 0.846 respectively.
+The result of best score for Random Forest, XG Boost and LightXGM are **0.857**, **0.849** and **0.847** respectively.
 
 My Code is sharing as follows: <br/>
-Code in Github: [Code](https://github.com/ansonlalu/Anson-Data-Science-Portfolio/blob/6a01ef79ea6655188c9305e74ba816959bf79732/6.2_20210804_Power%20Consumption%20for%20Rolling%20Stock.ipynb)<br/><br/><br/>
+Code in Github: [Code](https://github.com/ansonlalu/Anson-Data-Science-Portfolio/blob/67b5ca5d6aa3cf0d8598e61f099ae556f94d263a/6.2_20210804_Power%20Consumption%20for%20Rolling%20Stock.ipynb)<br/><br/><br/>
 
 
 <img width="706" alt="4_Kaggle_Household Electric Power Consumption_LSTM" src="https://user-images.githubusercontent.com/63663095/106499078-16fa3f80-64fb-11eb-820f-8ef5d60ea03a.jpg">
