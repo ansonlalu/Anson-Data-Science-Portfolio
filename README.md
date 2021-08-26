@@ -1,8 +1,8 @@
 # Anson's Data Science Profolio
 The website is intended to post my data science projects inspired form Kaggle, IBM AI Engineering and IBM Data Science Certificate, covering:
 
-&emsp;&emsp; 1) &emsp;  Real Work Experience- The Prediction of Voltage at the Pantograph for Passenger Trains  <br/>
-&emsp;&emsp; 2) &emsp;  Real Work Experience- LSTM with Time Series Analysis of Traction Power Substation Loading  <br/>
+&emsp;&emsp; 1) &emsp;  Real Work Experience- LSTM with Time Series Analysis of Traction Power Substation Loading  <br/>
+&emsp;&emsp; 2) &emsp;  Real Work Experience- The Prediction of Voltage at the Pantograph for Passenger Trains  <br/>
 &emsp;&emsp; 3) &emsp;  Household Electric Power Consumption by LSTM  <br/>
 &emsp;&emsp; 4) &emsp;  Prediction of Stock Price using LSTM  <br/>
 &emsp;&emsp; 5) &emsp;  Health Insurance Cross Sell Prediction  <br/>
@@ -11,7 +11,24 @@ The website is intended to post my data science projects inspired form Kaggle, I
 
 <br/><br/><br/><br/>
 
-## 1. Real Work Experience- The Prediction of Voltage at the Pantograph for Passenger Trains
+
+
+## 1. Real Work Experience- LSTM with Time Series Analysis of Traction Power Substations Loading
+
+<img width="706" alt="Brig2" src="https://user-images.githubusercontent.com/63663095/130985018-a273b0ab-a98c-4d83-848a-9f010c88e0cd.jpg">
+
+It is my another real work experience for the time series analysis of all traction power substation loading in LRT3. The use of LSTM can be effective to predict the forward value of power consumption in the network. Two LSTM layers and 480 seconds look back time have been adopted and give the accurate prediction.
+
+The result of loss for the model is **0.0186**
+
+My Code is sharing as follows: <br/>
+Code in Github: [Code](https://nbviewer.jupyter.org/github/ansonlalu/Anson-Data-Science-Portfolio/blob/bae149e7db10a634b3220ce99a1f9dcbe2ac39f8/6.1_20210704_LSTM%20with%20Time%20Series%20of%20TPSS%20Loading.ipynb)
+<br/><br/><br/><br/>
+
+
+
+
+## 2. Real Work Experience- The Prediction of Voltage at the Pantograph for Passenger Trains
 
 <img width="706" alt="Real Work Experience- The Prediction of Voltage at the Pantograph for Passenger Trains" src="https://user-images.githubusercontent.com/63663095/129641302-008ab2e3-7b66-4d15-9a32-4f91e14391be.jpg">
 
@@ -31,21 +48,6 @@ The result of best score for Random Forest, XG Boost and LightXGM are **0.857**,
 My Code is sharing as follows: <br/>
 Code in Github: [Code](https://github.com/ansonlalu/Anson-Data-Science-Portfolio/blob/054582e74f144564a9aa727336ca9084965b948a/6.2_20210822_Power%20Consumption%20for%20Rolling%20Stock.ipynb)
 <br/><br/><br/><br/>
-
-
-
-## 2. Real Work Experience- LSTM with Time Series Analysis of Traction Power Substations Loading
-
-<img width="706" alt="Brig2" src="https://user-images.githubusercontent.com/63663095/130985018-a273b0ab-a98c-4d83-848a-9f010c88e0cd.jpg">
-
-It is my another real work experience for the time series analysis of all traction power substation loading in LRT3. The use of LSTM can be effective to predict the forward value of power consumption in the network. 
-
-The result of loss for the model is **0.0186**
-
-My Code is sharing as follows: <br/>
-Code in Github: [Code](https://nbviewer.jupyter.org/github/ansonlalu/Anson-Data-Science-Portfolio/blob/bae149e7db10a634b3220ce99a1f9dcbe2ac39f8/6.1_20210704_LSTM%20with%20Time%20Series%20of%20TPSS%20Loading.ipynb)
-<br/><br/><br/><br/>
-
 
 
 
