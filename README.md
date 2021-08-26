@@ -1,8 +1,8 @@
 # Anson's Data Science Profolio
 The website is intended to post my data science projects inspired form Kaggle, IBM AI Engineering and IBM Data Science Certificate, covering:
 
-&emsp;&emsp; 1) &emsp;  Real Work Experience- LSTM with Time Series Analysis of Traction Power Substation Loading  <br/>
-&emsp;&emsp; 2) &emsp;  Real Work Experience- The Prediction of Voltage at the Pantograph for Passenger Trains  <br/>
+&emsp;&emsp; 1) &emsp;  LSTM with Time Series Analysis of Traction Power Substation Loading  <br/>
+&emsp;&emsp; 2) &emsp;  The Prediction of Voltage at the Pantograph for Passenger Trains  <br/>
 &emsp;&emsp; 3) &emsp;  Household Electric Power Consumption by LSTM  <br/>
 &emsp;&emsp; 4) &emsp;  Prediction of Stock Price using LSTM  <br/>
 &emsp;&emsp; 5) &emsp;  Health Insurance Cross Sell Prediction  <br/>
