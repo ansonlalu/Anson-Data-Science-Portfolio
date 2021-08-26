@@ -11,9 +11,10 @@ The website is intended to post my data science projects inspired form Kaggle, I
 
 <br/><br/><br/><br/>
 
+## 1. Real Work Experience- The Prediction of Voltage at the Pantograph for Passenger Trains
+
 <img width="706" alt="Real Work Experience- The Prediction of Voltage at the Pantograph for Passenger Trains" src="https://user-images.githubusercontent.com/63663095/129641302-008ab2e3-7b66-4d15-9a32-4f91e14391be.jpg">
 
-## 1. Real Work Experience- The Prediction of Voltage at the Pantograph for Passenger Trains
 It is my real work experience for the prediction of Voltage at the Pantograph for Passenger Trains. The use of Random Forest and XGBoost have been adopted for the regression analysis. The input of parameters are used for the prediction.
 
 &emsp;&emsp; 1. LinePosition <br/>
@@ -32,11 +33,11 @@ Code in Github: [Code](https://github.com/ansonlalu/Anson-Data-Science-Portfolio
 <br/><br/><br/><br/>
 
 
-<img width="706" alt="Brig2" src="https://user-images.githubusercontent.com/63663095/130985018-a273b0ab-a98c-4d83-848a-9f010c88e0cd.jpg">
-
-
 
 ## 2. Real Work Experience- LSTM with Time Series Analysis of Traction Power Substations Loading
+
+<img width="706" alt="Brig2" src="https://user-images.githubusercontent.com/63663095/130985018-a273b0ab-a98c-4d83-848a-9f010c88e0cd.jpg">
+
 It is my another real work experience for the time series analysis of all traction power substation loading in LRT3. The use of LSTM can be effective to predict the forward value of power consumption in the network. 
 
 The result of loss for the model is **0.0186**
@@ -47,10 +48,12 @@ Code in Github: [Code](https://nbviewer.jupyter.org/github/ansonlalu/Anson-Data-
 
 
 
-<img width="706" alt="4_Kaggle_Household Electric Power Consumption_LSTM" src="https://user-images.githubusercontent.com/63663095/106499078-16fa3f80-64fb-11eb-820f-8ef5d60ea03a.jpg">
 
 
 ## 3. Household Electric Power Consumption by LSTM 
+
+<img width="706" alt="4_Kaggle_Household Electric Power Consumption_LSTM" src="https://user-images.githubusercontent.com/63663095/106499078-16fa3f80-64fb-11eb-820f-8ef5d60ea03a.jpg">
+
 This work is to predict the Household Electric Power Consumption by using LSTM. The features are used to forecast the active power used in the future and listed below.
 
 &emsp;&emsp; 1. Active Power <br/>
@@ -70,10 +73,12 @@ Code in Github: [Code](https://github.com/ansonlalu/Anson-s-Data-Sceience-Profol
 
 
 
+## 4. Prediction of Stock Price using LSTM
+
 <img width="706" alt="Prediction of Stock Price using LSTM" src="https://user-images.githubusercontent.com/63663095/125904308-6823f306-1e32-40e6-953e-f611ccbbb231.jpg">
 
 
-## 4. Prediction of Stock Price using LSTM
+
 This is my preliminary work is to predict the stock price of Nvidia by using LSTM. Different features gathered from Yahoo Finance, covering: 
 
 &emsp;&emsp; 1. Open Price                 <br/>
@@ -93,11 +98,11 @@ Code in Github: [Code](https://nbviewer.jupyter.org/github/ansonlalu/Anson-Data-
 <br/><br/><br/><br/>
 
 
+## 5. Health Insurance Cross Sell Prediction- Best Score: 0.87735 for XG Boost
+
 <img width="706" alt="1_Google Play Sore Apps" src="https://user-images.githubusercontent.com/63663095/102711005-7b699280-42f1-11eb-9fe2-5d6c74921c09.jpg">
 
 
-
-## 5. Health Insurance Cross Sell Prediction- Best Score: 0.87735 for XG Boost
 This work is to predict customers whether they are really interested in the new product of Vehicle Insurance provided by the client of Insurance Company in this project. This project includes the topic commonly appear in data science, covering: <br/>
 
 &emsp;&emsp; 1.	Exploratory Data Analysis (Count Plot, Distribution Plot, Correlation Matrix, etc.) <br/>
@@ -114,10 +119,11 @@ Code in Github: [Code](https://github.com/ansonlalu/Anson-s-Data-Sceience-Profol
 
 
 
+## 6. Google Play Store Apps 
 
 <img width="706" alt="1_Google Play Sore Apps" src="https://user-images.githubusercontent.com/63663095/96374444-7e3af080-11a5-11eb-9e75-7819bbe0ba36.png">
 
-## 6. Google Play Store Apps 
+
 The project uses the data to perform data analysis utilizing different tree-based models, covering Decision Tree, Random Forest, XGBoost, LightGBM to identify the accuracy of R2 score for the rating of the App over 10000 mobile apps in the Google Play Store Apps.
 
 Meanwhile, the train test split and cross-validation will be also adopted for model evaluation.
@@ -129,10 +135,10 @@ Code in GIthub: [Code](https://github.com/ansonlalu/Anson-s-Data-Sceience-Profol
 <br/><br/><br/><br/>
 
 
+## 7. Capstone Project - The Battle of Neighborhoods
 
 <img width="506" alt="2_The Battle of Neighborhoods" src="https://user-images.githubusercontent.com/63663095/97613707-f92cc280-1a53-11eb-9c2a-bbbf9306938c.jpg">
 
-## 7. Capstone Project - The Battle of Neighborhoods
 
 The project is to investigate the comprehensive data analysis shall be implemented in order to understand the capability, price, categories (Japanese food restaurant or sushi restaurant) and rating for the Japanese Restaurant in New York City. The assessment can help understand what business strategy of Japanese restaurant shall be made (e.g. pricing strategy, decision for the acquisition of higher rating, location, etc.) before its new launch. 
 
