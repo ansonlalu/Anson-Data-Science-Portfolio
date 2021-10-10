@@ -46,7 +46,7 @@ It is my real work experience for the prediction of Voltage at the Pantograph fo
 The result of best score for Random Forest, XG Boost and LightXGM are **0.857**, **0.849** and **0.847** respectively.
 
 My Code is sharing as follows: <br/>
-Code in Github: [Code](https://github.com/ansonlalu/Anson-Data-Science-Portfolio/blob/054582e74f144564a9aa727336ca9084965b948a/6.2_20210822_Power%20Consumption%20for%20Rolling%20Stock.ipynb)
+Code in Github: [Code](https://nbviewer.org/github/ansonlalu/Anson-Data-Science-Portfolio/blob/2a19be959e3f0e673c0044215aa589cccc98f2ae/6.3_20210822_The%20Prediction%20of%20Voltage%20at%20the%20Pantograph%20for%20Passenger%20Trains.ipynb)
 <br/><br/><br/><br/>
 
 
